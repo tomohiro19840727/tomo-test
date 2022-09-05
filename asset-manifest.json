@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/tomo-test/static/css/main.073c9b0a.css",
+    "main.js": "/tomo-test/static/js/main.8f665ae8.js",
+    "static/js/787.2fa9ddfe.chunk.js": "/tomo-test/static/js/787.2fa9ddfe.chunk.js",
+    "static/media/logo.svg": "/tomo-test/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/tomo-test/index.html",
+    "main.073c9b0a.css.map": "/tomo-test/static/css/main.073c9b0a.css.map",
+    "main.8f665ae8.js.map": "/tomo-test/static/js/main.8f665ae8.js.map",
+    "787.2fa9ddfe.chunk.js.map": "/tomo-test/static/js/787.2fa9ddfe.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.8f665ae8.js"
+  ]
+}
